@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084777930127",
+    "project_id": "reelviewerapp-d995e",
+    "storage_bucket": "reelviewerapp-d995e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084777930127:android:afea1dcfe9fb809aff3ffa",
+        "android_client_info": {
+          "package_name": "com.example.reelviewerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPQ547kTRooki3zY4QjsXOWvF9Fxoe_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
